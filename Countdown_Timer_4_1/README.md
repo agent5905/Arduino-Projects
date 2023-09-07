@@ -1,7 +1,7 @@
 
 # Countdown Timer for the LED-5604 and Ardunio
 
-A countdown timer built to run on the Ardunio Nano and display on the LED-5604 7-Segment.
+A countdown timer built to run on the Ardunio UNO/Nano and display on the LED-5604 7-Segment.
 
 
 
